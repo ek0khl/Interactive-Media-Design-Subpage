@@ -65,7 +65,7 @@ function draw() {
   if (mouseIsPressed) {
      if (dist(mouseX, mouseY, 170, 8) < logo.width/34 && logo.height/22) {
      location.reload();
-     location.href='https://editor.p5js.org/s_jiyeon/full/ZYfjE8_BB';
+     location.href='https://ek0khl.github.io/Interactive-Media-Design-Mainpage/';
      }}
   fill(255);
   textSize(20);
